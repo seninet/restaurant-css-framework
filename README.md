@@ -21,6 +21,9 @@ placement of element with Bootstrap
 #### Prototype figma Screenshot
   [Figma file link](https://www.figma.com/file/LXvf7dpSXCX7BAkvd4Zf6x/Untitled?node-id=0%3A1)
 
-  ###### Figma Screen Shot
-  ![img](/asset/figma%20design%20screen%20shot.png)
+  ###### Figma ScreenShot
+  ![img](/restaurant-css-framework/asset/figma%20design%20screenshot.png)
 
+###### Actual Web Screenshot 
+![img](/restaurant-css-framework/asset/actual%20web%20page%20screenshot.png)
+![img](/restaurant-css-framework/asset/actual%20web%20page%20screenshoot2.png)
